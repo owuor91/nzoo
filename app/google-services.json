@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140455531728",
+    "firebase_url": "https://nzoo-b8a52.firebaseio.com",
+    "project_id": "nzoo-b8a52",
+    "storage_bucket": "nzoo-b8a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140455531728:android:103e1b83717688a4defad5",
+        "android_client_info": {
+          "package_name": "io.owuor91.nzoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140455531728-dcg1hs42i5omv65p3iamqu4cpjkusr7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pDTg_nphKPoReeltp3wiOIPilfIZWUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140455531728-dcg1hs42i5omv65p3iamqu4cpjkusr7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
